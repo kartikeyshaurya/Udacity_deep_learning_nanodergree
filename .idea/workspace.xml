@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e80f0b6-dcff-4d5f-bf99-6515b1cb539b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Bike_Predictioon_Data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bike_Predictioon_Data/2018-12-22-bike-rental-ridership-prediction-using-deep-learning.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bike_Predictioon_Data/Bike-Sharing-Dataset/.ipynb_checkpoints/Readme-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bike_Predictioon_Data/Bike-Sharing-Dataset/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bike_Predictioon_Data/Bike-Sharing-Dataset/day.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bike_Predictioon_Data/Bike-Sharing-Dataset/hour.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bike_Predictioon_Data/Your_first_neural_network.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bike_Predictioon_Data/assets/.ipynb_checkpoints/neural_network-checkpoint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bike_Predictioon_Data/assets/neural_network.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bike_Predictioon_Data/my_answers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bike_Predictioon_Data/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_propagation/.ipynb_checkpoints/backpropog-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_propagation/.ipynb_checkpoints/data_prep-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_propagation/binary.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_propagation/data_prep.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/.ipynb_checkpoints/Sentiment_Classification_Projects-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/.ipynb_checkpoints/Sentiment_Classification_Solutions_2_Better_Weight_Initialization-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/.ipynb_checkpoints/labels-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/.ipynb_checkpoints/reviews-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/.ipynb_checkpoints/sentiment_network_2-checkpoint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/.ipynb_checkpoints/sentiment_network_pos-checkpoint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/Sentiment_Classification_Projects.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/Sentiment_Classification_Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/Sentiment_Classification_Solutions_2_Better_Weight_Initialization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/reviews.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/sentiment_network.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/sentiment_network_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/sentiment_network_pos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/sentiment_network_sparse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment-analysis-network/sentiment_network_sparse_2.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZhrtOexbA1woxmWD9ynLrVe47B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.my_answers">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Udacity_deep_learning_nanodergree" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\aman\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Udacity_deep_learning_nanodergree" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_answers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Udacity_deep_learning_nanodergree" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bike_Predictioon_Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bike_Predictioon_Data/my_answers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.my_answers" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.my_answers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e80f0b6-dcff-4d5f-bf99-6515b1cb539b" name="Default Changelist" comment="" />
+      <created>1585302381006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585302381006</updated>
+      <workItem from="1585304499855" duration="421000" />
+      <workItem from="1585497005508" duration="1039000" />
+      <workItem from="1585537686411" duration="764000" />
+      <workItem from="1585661452390" duration="229000" />
+    </task>
+    <task id="LOCAL-00001" summary="labels.txt contains the data either positive or negative">
+      <created>1585497076311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585497076311</updated>
+    </task>
+    <task id="LOCAL-00002" summary="labels.txt contains the data">
+      <created>1585497095760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585497095760</updated>
+    </task>
+    <task id="LOCAL-00003" summary="the jupyter data">
+      <created>1585497123959</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585497123959</updated>
+    </task>
+    <task id="LOCAL-00004" summary="the projects solutions">
+      <created>1585497151746</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585497151746</updated>
+    </task>
+    <task id="LOCAL-00005" summary="the projects solutions">
+      <created>1585661551066</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585661551066</updated>
+    </task>
+    <task id="LOCAL-00006" summary="the projects solutions">
+      <created>1585661562360</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585661562360</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changes the little bit">
+      <created>1585661583880</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585661583880</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changes the little bit">
+      <created>1585661595799</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585661595799</updated>
+    </task>
+    <task id="LOCAL-00009" summary="changes the little bit">
+      <created>1585661603987</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585661603987</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="labels.txt contains the data either positive or negative" />
+    <MESSAGE value="labels.txt contains the data" />
+    <MESSAGE value="the jupyter data" />
+    <MESSAGE value="the projects solutions" />
+    <MESSAGE value="changes the little bit" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes the little bit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" width="1089" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585302485355">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" width="1089" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1585302485355" />
+    <state x="0" y="41" width="1536" height="714" key="SettingsEditor" timestamp="1585702220847">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="41" width="1536" height="714" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585702220847" />
+    <state x="441" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585701660614">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="441" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585701660614" />
+  </component>
+</project>
