@@ -1,0 +1,32 @@
+Task List:
+
+Increase (or decrease) the number of nodes in each of the hidden layers. Do you notice evidence of overfitting (or underfitting)?
+
+increases the number of epochs to 50 and hence accuracy increase 98.13 %
+decrease the number of epochs to 10 and hence accuracy increases 98.11 %
+ 
+ 
+ 
+ 
+
+Increase (or decrease) the number of hidden layers. Do you notice evidence of overfitting (or underfitting)?
+there is no changes in the accuracy same as 98.11 %
+ 
+Remove the dropout layers in the network. Do you notice evidence of overfitting?
+nope no changes
+ 
+Remove the ReLU activation functions. Does the test accuracy decrease?
+nope 
+ 
+Remove the image pre-processing step with dividing every pixel by 255. Does the accuracy decrease?
+yes the accuracy decrease by the 4  % 
+
+
+  
+Try a different optimizer, such as stochastic gradient descent.
+
+  
+  
+  
+Increase (or decrease) the batch size.
+the accuracy decrease by 1.5 % 
